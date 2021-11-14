@@ -4,9 +4,6 @@ Qué lenguaje de programación debo aprender primero?
 #### Slug:
 que-lenguaje-de-programacion-debo-aprender-primero
 
-#### Descripcion:
-Qué lenguaje de programación debes aprender primero? Mi respuesta corta es elige entre Python y Javascript. En este artículo te voy a explicar por qué elegí esos dos lenguajes en particular y vamos a repasar el proceso para elegir el primer lenguaje de programación para ti considerando tu situación en particular, y tus preferencias.
-
 #### Contenido:
 Para elegir el primer lenguaje de programación para ti mismo, una cosa de tomar en mente es que una vez que conoces un lenguaje, por ejemplo C++, Java u otro lenguaje, tan largo que conoces un lenguaje de programación va a ser mucho mas fácil aprender cualquier otro lenguaje de programación adicional porque todos los lenguajes de programación son relacionados y similares. Entonces, yo diría que si ya has empezado a aprender un lenguaje y te gusta lo que estás aprendiendo, sigue con eso. Aparte de eso, hay tres puntos que deberías considerar cuando estas eligiendo el correcto primer lenguaje para ti mismo.
 
